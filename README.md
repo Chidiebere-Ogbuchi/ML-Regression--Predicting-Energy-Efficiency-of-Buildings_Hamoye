@@ -1,13 +1,13 @@
 # Machine-Learning-Regression---Predicting-Energy-Efficiency-of-Buildings
 Hamoye Machine Learning: Regression - Predicting Energy Efficiency of Buildings
 
-Repo is about Hamoye internship training course 2
+**Repo is about Hamoye internship training course 2
 
-Contains the code for the tag_along Quiz 2 and practice 2
+Contains the code for the tag_along Quiz 2 and practice 2**
 
 
 
-he dataset for the remainder of this quiz (from question 18) is the Appliances Energy Prediction data. The data set is at 10 min for about 4.5 months. The house temperature and humidity conditions were monitored with a ZigBee wireless sensor network. Each wireless node transmitted the temperature and humidity conditions around 3.3 min. Then, the wireless data was averaged for 10 minutes periods. The energy data was logged every 10 minutes with m-bus energy meters. Weather from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis (rp5.ru), and merged together with the experimental data sets using the date and time column. Two random variables have been included in the data set for testing the regression models and to filter out non predictive attributes (parameters). The attribute information can be seen below.
+The dataset for the remainder of this quiz (from question 18) is the Appliances Energy Prediction data. The data set is at 10 min for about 4.5 months. The house temperature and humidity conditions were monitored with a ZigBee wireless sensor network. Each wireless node transmitted the temperature and humidity conditions around 3.3 min. Then, the wireless data was averaged for 10 minutes periods. The energy data was logged every 10 minutes with m-bus energy meters. Weather from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis (rp5.ru), and merged together with the experimental data sets using the date and time column. Two random variables have been included in the data set for testing the regression models and to filter out non predictive attributes (parameters). The attribute information can be seen below.
 
 Attribute Information:
 
